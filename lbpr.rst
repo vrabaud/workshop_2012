@@ -1,5 +1,7 @@
 .. page-load-style:: big-centered
 
+
+
 .. layout::
    :vgradient:white;gray
 
@@ -39,17 +41,28 @@ Sci Fi Personal Robots
 
 Personal Robots In Homes
 ------------------------
+.. page-style:: 
+   :list.expose: expose
+   :align: center
+   :list.bullet: none
 
-.. image:: images/roomba_220.jpg
+- .. image:: images/roomba_220.jpg
+    :height: 200
 
 .. note:: We have simple cleaning robots.  They sometimes can work on
    their own, sometimes they're more entertainment.  
 
-.. image:: images/paro.jpg
+- .. image:: images/paro.jpg
+    :height: 200
 
 .. note:: And we have many robots companions, but the extent of their 
    abilities is to make noises and wiggle a little.
 
+- .. image:: images/800px-Pleo_robot.jpg
+     :height: 200
+
+.. note:: And we have many robots companions, but the extent of their 
+   abilities is to make noises and wiggle a little.
 
 My Background
 -------------
@@ -63,18 +76,84 @@ My Background
 
 - .. image:: images/alice.jpg
      :height: 220
-
-- .. image:: images/little_ben_220.jpg
+     
+- .. image:: images/little_ben.jpg
      :height: 220
 
 
+---------------------
 
+
+.. page-load-style:: big-centered
+
+
+DARPA Urban Grand Challenge
+
+.. image:: images/urban_challenge.jpg
+
+.. note:: Note the similarities between these two cars.  The code
+   which defined the difference between the winning car and the other
+   finalists was maybe 10 percent of the effort.  The other 90% of the
+   efforts could have been shared and not given up their competitive
+   advantage.  And think if the 100+ teams in the overall competition
+   had all contributed just a little bit to a shared pool.  
+   Of course I'm preaching to the choir.
+
+
+.. note:: This is indicative of the state of academic robotics in general.  
+   TRANSITION TO PHD COMIC
+
+
+----
+
+.. PHD COMIC
+.. page-load-style:: big-centered
+.. image:: images/phd_comic.jpg
+
+TODO change to progressive reveal of one word + image simplified
+
+
+----
+
+.. style::
+   :align: center
+   :layout.valign: center
+
+
+
+============================== =========
+ .. image:: images/recycle.png  - Reduce 
+                                - Reuse
+                                - Recycle
+============================== =========
+
+ TODO fixme get this table working well 
+
+.. note:: You can take the 3 tenants of recycling and directly apply them here. 
+   The goal is to reduce wasted effort and make people more productive.  
+   Reduce the amount of code written. 
+   Reuse existing code, don't reimplement it if someone's already done it
+   Recycle -- take parts of existing code and reuse them
+
+
+.. note:: Values -- less volume + more eyes -> higher code quality, no duplicated effort.
+
+
+----
+
+.. Tux + Research
+
+
+========================= ================================
+.. image:: images/tux.png .. image:: images/books_open.jpg
+                             :width: 300
+========================= ================================
+
+
+
+----
 
 .. The TurtleBot
-
-
--------------
-
 .. page-load-style:: big-centered
 
 .. image:: images/turtlebot.jpg
@@ -84,9 +163,9 @@ Live Demo!
 .. note:: Introduce Turtlebot, getting from research into the home
    Small platform, give people access to the ROS community in a
    package they can take home.
-
-.. note::  
-
+   
+.. note:: Show off teleo interactive markers, 2dnavigation + prebuilt
+   slam from before hand.  Then stop it and switch to teleop android.
 
 ----
 
@@ -97,3 +176,9 @@ Thank You
 
 Questions?
 
+
+Image Sources
+-------------
+- Roomba Public Domain on Wikipedia
+- Paro http://www.parorobots.com/pdf/pressreleases/PARO to be marketed 2004-9.pdf
+- Pleo http://en.wikipedia.org/wiki/File:Pleo_robot.jpg
