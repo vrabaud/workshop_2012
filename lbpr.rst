@@ -152,15 +152,60 @@ TODO change to progressive reveal of one word + image simplified
                                   :width: 250
 ========================= ==== ==================================
 
+.. note:: 
+   
+   Computer industry is booming, and alot of it is due to the
+   availability of open source software in particular linux.  We're
+   looking to kick start the robotics industry in the same way.
+
+----
+
+Core Components of the vision:
+- A goal and direction -- to get others to follow
+- Open source platform
+- Good software engineering practices
+- Stable APIs
+- Good documentation!!
+
+
+Tools for Developers
+--------------------
+
+.. image:: images/rosmake.png
+   :width: 800
+
+Tools for Developers
+--------------------
+
+.. video:: videos/rviz_30_second.mpeg
+
 
 Tools for the Community
 -----------------------
 
-.. image:: images/rosmake.png
-   :width: 400
+aafa.. image:: images/rosdocs.png
+
+Tools for the Community
+-----------------------
+
+.. image:: images/jenkins.png
+   :width: 600
 
 .. image:: images/success.gif
    :width: 400
+
+.. note:
+
+   We've seen significant improvements in our code quality and
+   usability.  And extending this to the entire community helps
+   everyone.
+
+.. note::
+
+   We have implemented continuous integration and release testing for
+   all stacks publicly release in the ROS community.  And the
+   infrastructure is also being used externally to index and test
+   private repositories.
 
 Worldwide community
 -------------------
@@ -171,6 +216,13 @@ Worldwide community
 
    This represents the locations of most of the public repositories
    which are releaseing open source code and we are indexing.
+
+
+PR2
+---
+
+.. image:: images/pr2.jpg
+
 
 Future Plans
 ------------
@@ -220,3 +272,4 @@ Image Sources
 - Debian Package Management http://murugaprabu.me/wordpress/2011/01/16/hello-world/
 - Urban Challenge kwc.org
 - Success Chart https://cs.byu.edu/image/302-success_clipart
+- Jenkins Logo https://wiki.jenkins-ci.org/display/JENKINS/Logo
