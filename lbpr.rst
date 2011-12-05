@@ -152,12 +152,39 @@ TODO change to progressive reveal of one word + image simplified
                                   :width: 250
 ========================= ==== ==================================
 
+
+Tools for the Community
+-----------------------
+
+.. image:: images/rosmake.png
+   :width: 400
+
+.. image:: images/success.gif
+   :width: 400
+
 Worldwide community
 -------------------
 .. image:: images/ros_map.png
    :width: 1024
 
+.. note:: 
 
+   This represents the locations of most of the public repositories
+   which are releaseing open source code and we are indexing.
+
+Future Plans
+------------
+
+.. image:: images/ubuntu.png
+   :width: 600
+
+.. image:: images/fedora.png
+   :width: 600
+
+.. note:: 
+
+   We're growing the community and now we're planning to start pushing
+   our more mature code upstream to ubuntu and fedora repos.  
 
 ----
 
@@ -190,3 +217,6 @@ Image Sources
 - Roomba Public Domain on Wikipedia
 - Paro http://www.parorobots.com/pdf/pressreleases/PARO to be marketed 2004-9.pdf
 - Pleo http://en.wikipedia.org/wiki/File:Pleo_robot.jpg
+- Debian Package Management http://murugaprabu.me/wordpress/2011/01/16/hello-world/
+- Urban Challenge kwc.org
+- Success Chart https://cs.byu.edu/image/302-success_clipart
