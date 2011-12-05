@@ -143,11 +143,19 @@ TODO change to progressive reveal of one word + image simplified
 
 .. Tux + Research
 
+.. style::
+   :align: center
+   :layout.valign: center
 
-========================= ================================
-.. image:: images/tux.png .. image:: images/books_open.jpg
-                             :width: 300
-========================= ================================
+========================= ==== ==================================
+.. image:: images/tux.png Plus .. image:: images/books_open.jpg
+                                  :width: 250
+========================= ==== ==================================
+
+Worldwide community
+-------------------
+.. image:: images/ros_map.png
+   :width: 1024
 
 
 
