@@ -34,7 +34,7 @@ Sci Fi Personal Robots
 .. image:: images/rosie_singing.gif .. image:: images/r2d2_200.jpg
 =================================== ==============================
 
-.. note: We'd all love to have these robots
+.. note:: We'd all love to have these robots
    But what robots do we have in the home. 
 
 Personal Robots In Homes
@@ -42,20 +42,50 @@ Personal Robots In Homes
 
 .. image:: images/roomba_220.jpg
 
-.. note: We have simple cleaning robots.  They sometimes can work on
-.. their own, sometimes they're more entertainment.  
+.. note:: We have simple cleaning robots.  They sometimes can work on
+   their own, sometimes they're more entertainment.  
 
 .. image:: images/paro.jpg
 
-.. note: And we have many robots companions, but the extent of their
-.. abilities is to make noises and wiggle a little.
+.. note:: And we have many robots companions, but the extent of their 
+   abilities is to make noises and wiggle a little.
 
 
 My Background
+-------------
+.. page-style:: 
+   :list.expose: expose
+   :align: center
+   :list.bullet: none
+
+- .. image:: images/bob.jpg
+     :height: 220
+
+- .. image:: images/alice.jpg
+     :height: 220
+
+- .. image:: images/little_ben_220.jpg
+     :height: 220
 
 
 
 
+.. The TurtleBot
+
+
+-------------
+
+.. page-load-style:: big-centered
+
+.. image:: images/turtlebot.jpg
+
+Live Demo!
+
+.. note:: Introduce Turtlebot, getting from research into the home
+   Small platform, give people access to the ROS community in a
+   package they can take home.
+
+.. note::  
 
 
 ----
@@ -67,7 +97,3 @@ Thank You
 
 Questions?
 
-
-Sources
--------
-Rosie image copyright Warner Brothers
