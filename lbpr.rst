@@ -34,9 +34,31 @@ Sci Fi Personal Robots
 .. image:: images/rosie_singing.gif .. image:: images/r2d2_200.jpg
 =================================== ==============================
 
+.. note: We'd all love to have these robots
+   But what robots do we have in the home. 
 
-Personal Robots Today
----------------------
+Personal Robots In Homes
+------------------------
+
+.. image:: images/roomba_220.jpg
+
+.. note: We have simple cleaning robots.  They sometimes can work on
+.. their own, sometimes they're more entertainment.  
+
+.. image:: images/paro.jpg
+
+.. note: And we have many robots companions, but the extent of their
+.. abilities is to make noises and wiggle a little.
+
+
+My Background
+
+
+
+
+
+
+----
 
 .. page-load-style:: big-centered
 
