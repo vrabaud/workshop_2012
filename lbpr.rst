@@ -1,4 +1,4 @@
-.. page-load-style:: big-centered
+.. load-style:: gradient
 
 
 
@@ -7,12 +7,15 @@
 
 Linux Based Personal Robots
 
+.. page-style::
+   :font_size: 20
+
 Tully Foote
-Willow Garage
+
+.. image:: images/wg_logo.jpg
+   :width: 200
 
 ----
-
-.. page-load-style:: big-centered
 
 What is a personal robot?
 
@@ -29,8 +32,6 @@ What is a personal robot?
 Sci Fi Personal Robots
 ----------------------
 
-.. page-load-style:: big-centered
-        
 
 =================================== ==============================
 .. image:: images/rosie_singing.gif .. image:: images/r2d2_200.jpg
@@ -84,9 +85,6 @@ My Background
 ---------------------
 
 
-.. page-load-style:: big-centered
-
-
 DARPA Urban Grand Challenge
 
 .. image:: images/urban_challenge.jpg
@@ -107,7 +105,6 @@ DARPA Urban Grand Challenge
 ----
 
 .. PHD COMIC
-.. page-load-style:: big-centered
 .. image:: images/phd_comic.jpg
 
 TODO change to progressive reveal of one word + image simplified
@@ -158,14 +155,23 @@ TODO change to progressive reveal of one word + image simplified
    availability of open source software in particular linux.  We're
    looking to kick start the robotics industry in the same way.
 
+ROS TRansition
+----
+ROS LOGO
+
+WG MIssion Open source lead to ROS
+
+
 ----
 
-Core Components of the vision:
+What is our vision for ROS: 
 - A goal and direction -- to get others to follow
 - Open source platform
 - Good software engineering practices
 - Stable APIs
 - Good documentation!!
+
+Transition to summary of some of the existing tools in ROS.
 
 
 Tools for Developers
@@ -194,6 +200,8 @@ Tools for the Community
 .. image:: images/success.gif
    :width: 400
 
+ADD IMAGE of dashboard
+
 .. note:
 
    We've seen significant improvements in our code quality and
@@ -207,6 +215,8 @@ Tools for the Community
    infrastructure is also being used externally to index and test
    private repositories.
 
+MORE DETAILS 5 minute quick builds on commit, overnight builds to test full releases, release tarball generation
+
 Worldwide community
 -------------------
 .. image:: images/ros_map.png
@@ -217,12 +227,79 @@ Worldwide community
    This represents the locations of most of the public repositories
    which are releaseing open source code and we are indexing.
 
+.. note::
+
+   To be able to write state of the art software we needed a state of
+   the art robot.  I give you the PR2.
+
 
 PR2
 ---
 
 .. image:: images/pr2.jpg
+   :height: 700
 
+.. note::
+   
+   2 dual quad core Intel i7 servers with 32 Gb ram each pulling 500Watts each (motors are only 200W at full power)
+   2 wifi routers + gigabit ethernet port with automatic network rerouting
+   5 ethernet cameras
+   2 laser range finders
+   32 motorized joints
+   16 Lithium-Ion laptop batteries
+
+.. note::
+
+   Design goal was to be software developers dream platform.  Emphasis
+   on uptime, reliability and robustness.  Also easy user switching
+   for time sharing.  Usually research robots run a few days a month,
+   PR2s sometimes do 3 shifts of students.
+
+   Talk about safe arms, with spring counter balance.  I"m willing to
+   work right in front of the robot w/o looking due to only 4 poinds
+   force.  I know of other common robot arms which have punched
+   through the middle of the table in front of them the first time
+   they were turned on.
+
+
+PR2
+---
+
+.. video:: videos/milestone2_and_replugged.mpeg
+
+PR2
+--- 
+
+.. video:: videos/pool_reduced.mpeg
+
+PR2
+---
+
+.. video:: videos/beer_short.mpeg
+
+
+What can others do with the PR2 transition
+
+PR2
+---
+
+Towel Before video
+
+.. note:: 
+
+   Done 2 years ago with an alpha robot.  
+
+How much improvement can you get in a year?
+
+PR2
+---
+
+Towel After video
+
+.. note::
+   
+   Done this spring with a stock PR2.  X times faster.  The speedup
+   demonstrats the improvements in the tools.
 
 Future Plans
 ------------
@@ -233,19 +310,23 @@ Future Plans
 .. image:: images/fedora.png
    :width: 600
 
+ADD ANDROID
+
 .. note:: 
 
    We're growing the community and now we're planning to start pushing
-   our more mature code upstream to ubuntu and fedora repos.  
+   our more mature code upstream to ubuntu and fedora repos.  Toward
+   growing the community we are also now reaching out to more people
+   by pushing our software onto smaller platforms.  We have many
+   people starting to use ROS on Android and Arm based computer.  We
+   just launched the TurtleBot running on Atom based laptops.
 
-----
-
-.. The TurtleBot
-.. page-load-style:: big-centered
+The TurtleBot
+-------------
 
 .. image:: images/turtlebot.jpg
+   :height: 650
 
-Live Demo!
 
 .. note:: Introduce Turtlebot, getting from research into the home
    Small platform, give people access to the ROS community in a
@@ -254,9 +335,15 @@ Live Demo!
 .. note:: Show off teleo interactive markers, 2dnavigation + prebuilt
    slam from before hand.  Then stop it and switch to teleop android.
 
+
+ADD VIDEO SLIDE
+
+ADD NOTES FOR SMARTPHONE analigy, give people the capability to implement their passion
+
+
+
 ----
 
-.. page-load-style:: big-centered
 
 Thank You
 
@@ -266,6 +353,11 @@ Questions?
 
 Image Sources
 -------------
+
+.. style::
+   :font_size: 20
+
+
 - Roomba Public Domain on Wikipedia
 - Paro http://www.parorobots.com/pdf/pressreleases/PARO to be marketed 2004-9.pdf
 - Pleo http://en.wikipedia.org/wiki/File:Pleo_robot.jpg
@@ -273,3 +365,45 @@ Image Sources
 - Urban Challenge kwc.org
 - Success Chart https://cs.byu.edu/image/302-success_clipart
 - Jenkins Logo https://wiki.jenkins-ci.org/display/JENKINS/Logo
+
+
+Notes from Karen
+----------------
+
+
+
+add transition slides between videos and sections.  like:
+- "What can we do to prove ROS works?"
+- "What's a good challenge for the PR2?
+- Hackathon Results
+- ...
+- Where linux based robots have been, before my background.  
+
+need summary of what I"m going to say
+Where it was
+Where it is
+Where it's going
+
+Find 3 images, use them as transition slides
+
+Setup my background with summary of the Grand Challenge
+Ask who knows about it?  Who was involved with it.  ->>> This is what I did.  
+
+Connect East Palo Alto to West Philly
+
+
+Tools need more transitions, showing ROS log in the corner, --- Use ROS logo for where we are today. Connect with Willow Garage and our current mission.  
+Use Scott's history of open source -> WG Mission for robotics.  
+
+
+
+Transitions - wrap up previous and lead into the next point
+Finding ways to enguage with the audience - ask more questions, even retorical
+
+More direct conneciton to linux lost from last draft.
+
+
+
+ENERGY!!!!!!!
+Fun!!
+Contact w/ audience
