@@ -128,10 +128,10 @@ TODO change to progressive reveal of one word + image simplified
 
 ----
 
-.. style::
+.. page-style::
    :align: center
    :layout.valign: center
-
+   :font_size: 40
 
 
 ============================== =========
@@ -160,10 +160,10 @@ TODO change to progressive reveal of one word + image simplified
    :align: center
    :layout.valign: center
 
-========================= ==== ==================================
-.. image:: images/tux.png Plus .. image:: images/books_open.jpg
-                                  :width: 250
-========================= ==== ==================================
+========================= ========================== ==================================
+.. image:: images/tux.png .. image:: images/plus.png .. image:: images/books_open.jpg
+                             :height: 314               :height: 314
+========================= ========================== ==================================
 
 .. note:: 
    
@@ -195,7 +195,7 @@ What is the solution?
 =============================== ===================================
 
 
-.. notes:: 
+.. note:: 
   A goal and direction -- to get others to follow
   Open source platform
   Good software engineering practices
