@@ -155,23 +155,40 @@ TODO change to progressive reveal of one word + image simplified
    availability of open source software in particular linux.  We're
    looking to kick start the robotics industry in the same way.
 
-ROS TRansition
-----
-ROS LOGO
-
-WG MIssion Open source lead to ROS
-
 
 ----
 
-What is our vision for ROS: 
-- A goal and direction -- to get others to follow
-- Open source platform
-- Good software engineering practices
-- Stable APIs
-- Good documentation!!
+What is the solution?
 
-Transition to summary of some of the existing tools in ROS.
+.. note:
+   
+   WG MIssion Open source lead to ROS
+
+----
+
+.. image:: images/ros.png
+   :width: 700
+
+
+----
+
+=============================== ===================================
+.. image:: images/direction.jpg .. image:: images/osi_symbol.jpg
+=============================== ===================================
+.. image:: images/balance.jpg   .. image:: images/documentation.jpg
+=============================== ===================================
+
+
+.. notes:: 
+  A goal and direction -- to get others to follow
+  Open source platform
+  Good software engineering practices
+  Stable APIs
+  Good documentation!!
+
+----
+
+  Transition to summary of some of the existing tools in ROS.
 
 
 Tools for Developers
@@ -327,6 +344,17 @@ The TurtleBot
 .. image:: images/turtlebot.jpg
    :height: 650
 
+----
+
+.. video:: videos/turtlebot.mp4
+   :width: 800
+
+----
+
+================================ ===============================
+.. image:: images/smartphone.jpg .. image:: images/turtlebot.jpg
+                                    :height: 325
+================================ ===============================
 
 .. note:: Introduce Turtlebot, getting from research into the home
    Small platform, give people access to the ROS community in a
@@ -336,7 +364,6 @@ The TurtleBot
    slam from before hand.  Then stop it and switch to teleop android.
 
 
-ADD VIDEO SLIDE
 
 ADD NOTES FOR SMARTPHONE analigy, give people the capability to implement their passion
 
