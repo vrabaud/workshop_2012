@@ -327,7 +327,8 @@ Future Plans
 .. image:: images/fedora.png
    :width: 600
 
-ADD ANDROID
+.. image:: images/android.jpg
+   :width: 600
 
 .. note:: 
 
@@ -351,10 +352,10 @@ The TurtleBot
 
 ----
 
-================================ ===============================
-.. image:: images/smartphone.jpg .. image:: images/turtlebot.jpg
-                                    :height: 325
-================================ ===============================
+================================ ========================== ===============================
+.. image:: images/droid.jpg      .. image:: images/l--r.jpg      .. image:: images/turtlebot.jpg
+                                                                    :height: 325
+================================ ========================== ===============================
 
 .. note:: Introduce Turtlebot, getting from research into the home
    Small platform, give people access to the ROS community in a
@@ -365,7 +366,7 @@ The TurtleBot
 
 
 
-ADD NOTES FOR SMARTPHONE analigy, give people the capability to implement their passion
+.. note:: ADD NOTES FOR SMARTPHONE analigy, give people the capability to implement their passion
 
 
 
@@ -392,7 +393,8 @@ Image Sources
 - Urban Challenge kwc.org
 - Success Chart https://cs.byu.edu/image/302-success_clipart
 - Jenkins Logo https://wiki.jenkins-ci.org/display/JENKINS/Logo
-
+- Droid Photo http://www.motorola.com/staticfiles/Consumers/Products/Mobile%20Phones/DROID-3-By-Motorola/_Images/Droid-X3_Production_Specs.jpg
+- Android Logo http://farm4.staticflickr.com/3034/3754407004_33e592d075.jpg
 
 Notes from Karen
 ----------------
