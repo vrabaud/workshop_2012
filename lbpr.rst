@@ -71,6 +71,12 @@ My Background
 .. image:: images/grandchallenge.jpg
    :width: 800
 
+.. note:: 
+
+   Connect with audience!!! Ask how many know of Grand Challenge? HOw many particpiated? 
+   What is the grand challenge?
+
+
 My Background
 -------------
 
@@ -95,6 +101,9 @@ My Background
 .. note:: DARPA Urban Grand Challenge
 
 .. image:: images/urban_challenge.jpg
+
+.. note::
+   Why did DARPA choose the challenge format? -- because paying military contractors to do this is much less efficient than crowd sourcing.  
 
 .. note:: Note the similarities between these two cars.  The code
    which defined the difference between the winning car and the other
