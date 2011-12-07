@@ -67,6 +67,13 @@ Personal Robots In Homes
 
 My Background
 -------------
+
+.. image:: images/grandchallenge.jpg
+   :width: 800
+
+My Background
+-------------
+
 .. page-style:: 
    :list.expose: expose
    :align: center
@@ -85,7 +92,7 @@ My Background
 ---------------------
 
 
-DARPA Urban Grand Challenge
+.. note:: DARPA Urban Grand Challenge
 
 .. image:: images/urban_challenge.jpg
 
@@ -369,6 +376,10 @@ The TurtleBot
 .. note:: ADD NOTES FOR SMARTPHONE analigy, give people the capability to implement their passion
 
 
+----
+
+Live Demo!
+
 
 ----
 
@@ -413,7 +424,7 @@ Where it was
 Where it is
 Where it's going
 
-Find 3 images, use them as transition slides
+Find 3 images, use them as transition slides and themes
 
 Setup my background with summary of the Grand Challenge
 Ask who knows about it?  Who was involved with it.  ->>> This is what I did.  
