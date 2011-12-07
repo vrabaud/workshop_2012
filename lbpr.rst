@@ -65,6 +65,15 @@ Personal Robots In Homes
 .. note:: And we have many robots companions, but the extent of their 
    abilities is to make noises and wiggle a little.
 
+----
+
+Motivation
+
+What we're doing
+
+Future
+
+
 My Background
 -------------
 
@@ -310,24 +319,19 @@ PR2
 
 .. video:: videos/beer_short.mpeg
 
+PR2
+---
 
-What can others do with the PR2 transition
+What can others do with the PR2?
 
 PR2
 ---
 
-Towel Before video
+.. video:: videos/towel_speedup.mpeg
 
 .. note:: 
 
    Done 2 years ago with an alpha robot.  
-
-How much improvement can you get in a year?
-
-PR2
----
-
-Towel After video
 
 .. note::
    
