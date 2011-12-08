@@ -153,7 +153,7 @@ My Background
 .. PHD COMIC
 .. image:: images/phd_comic.jpg
 
-TODO change to progressive reveal of one word + image simplified
+.. TODO change to progressive reveal of one word + image simplified
 
 
 ----
@@ -164,13 +164,17 @@ TODO change to progressive reveal of one word + image simplified
    :font_size: 40
 
 
-============================== =========
- .. image:: images/recycle.png  - Reduce 
-                                - Reuse
-                                - Recycle
-============================== =========
+============================== ==========================
+ .. image:: images/recycle.png .. page-style::
+                                  :layout.valign: center
+                                  :font_size: 60
 
- TODO fixme get this table working well 
+                               - Reduce 
+                               - Reuse
+                               - Recycle
+============================== ==========================
+
+.. TODO fixme get this table working well 
 
 .. note:: You can take the 3 tenants of recycling and directly apply them here. 
    The goal is to reduce wasted effort and make people more productive.  
