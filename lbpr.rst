@@ -208,10 +208,17 @@ My Background
 
 ----
 
-What is the solution?
+.. layout::
+   :vgradient:white;gray
+
+.. image:: images/future.jpg
+
+
+.. image:: images/wg_logo.jpg
+   :width: 500
 
 .. note:
-   
+   What is the solution?
    WG MIssion Open source lead to ROS
 
 ----
@@ -368,6 +375,9 @@ PR2
    demonstrats the improvements in the tools.
 
 ----
+
+.. layout::
+   :vgradient:white;gray
 
 .. image:: images/future.jpg
 
