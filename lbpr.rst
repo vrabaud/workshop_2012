@@ -211,16 +211,15 @@ My Background
 .. layout::
    :vgradient:white;gray
 
-.. image:: images/future.jpg
-
-
 .. image:: images/wg_logo.jpg
    :width: 500
 
-.. note:
+.. note::
    What is the solution?
    WG MIssion Open source lead to ROS
 
+
+.. note:: Transition into how we're doing it with ROS
 ----
 
 .. layout::
