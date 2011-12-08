@@ -266,7 +266,21 @@ Tools for Developers
 Tools for the Community
 -----------------------
 
-aafa.. image:: images/rosdocs.png
+.. image:: images/plotting.png
+   :width: 800
+
+Tools for the Community
+-----------------------
+
+.. image:: images/record_playback.png
+   :width: 800
+
+
+Tools for the Community
+-----------------------
+
+.. image:: images/opencv_pcl.png
+   :width: 800
 
 Tools for the Community
 -----------------------
@@ -277,7 +291,7 @@ Tools for the Community
 .. image:: images/success.gif
    :width: 400
 
-ADD IMAGE of dashboard
+.. TODO ADD IMAGE of dashboard
 
 .. note:
 
@@ -292,10 +306,18 @@ ADD IMAGE of dashboard
    infrastructure is also being used externally to index and test
    private repositories.
 
-MORE DETAILS 5 minute quick builds on commit, overnight builds to test full releases, release tarball generation
+.. MORE DETAILS 5 minute quick builds on commit, overnight builds to test full releases, release tarball generation
+
+Tools for the Community
+-----------------------
+
+.. image:: images/documentation.png
+   :width: 1000
+
 
 Worldwide community
 -------------------
+
 .. image:: images/ros_map.png
    :width: 1024
 
@@ -309,6 +331,16 @@ Worldwide community
    To be able to write state of the art software we needed a state of
    the art robot.  I give you the PR2.
 
+
+Worldwide community
+-------------------
+
+.. image:: images/packages.png
+   :width: 900
+
+----
+
+How do you prove your software works?
 
 PR2
 ---
@@ -338,6 +370,11 @@ PR2
    through the middle of the table in front of them the first time
    they were turned on.
 
+
+PR2
+---
+
+How do you prove your robot works?
 
 PR2
 ---
