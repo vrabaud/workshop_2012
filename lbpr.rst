@@ -65,17 +65,38 @@ Personal Robots In Homes
 .. note:: And we have many robots companions, but the extent of their 
    abilities is to make noises and wiggle a little.
 
-----
+Presentation Outline
+--------------------
+
+.. page-style:: 
+   :font_size: 40
+
+
+
+.. image:: images/pie_in_sky.jpg
+   :height: 200
+
+.. image:: images/wg_logo.jpg
+   :height: 200
+
+.. image:: images/future.jpg
+   :height: 200
+
 
 Motivation
+----------
 
-What we're doing
+.. image:: images/pie_in_sky.jpg
+   :height: 350
 
-Future
 
 
 My Background
 -------------
+
+.. layout::
+   :image: images/pie_in_sky_small.jpg;halign=right;valign=top
+   :vgradient:white;gray
 
 .. image:: images/grandchallenge.jpg
    :width: 800
@@ -190,6 +211,10 @@ What is the solution?
    WG MIssion Open source lead to ROS
 
 ----
+
+.. layout::
+   :image: images/wg_logo_small.jpg;halign=right;valign=top
+   :vgradient:white;gray
 
 .. image:: images/ros.png
    :width: 700
@@ -338,8 +363,16 @@ PR2
    Done this spring with a stock PR2.  X times faster.  The speedup
    demonstrats the improvements in the tools.
 
+----
+
+.. image:: images/future.jpg
+
 Future Plans
 ------------
+
+.. layout::
+   :image: images/future_small.jpg;halign=right;valign=top
+   :vgradient:white;gray
 
 .. image:: images/ubuntu.png
    :width: 600
