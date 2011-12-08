@@ -331,12 +331,17 @@ Worldwide community
    To be able to write state of the art software we needed a state of
    the art robot.  I give you the PR2.
 
-
 Worldwide community
 -------------------
 
 .. image:: images/packages.png
    :width: 900
+
+Worldwide community
+-------------------
+
+.. image:: images/robots_using_ros.png
+   :width: 1000
 
 ----
 
@@ -374,7 +379,7 @@ PR2
 PR2
 ---
 
-How do you prove your robot works?
+What's a good challenge for the PR2?
 
 PR2
 ---
@@ -507,11 +512,6 @@ Notes from Karen
 ----------------
 
 
-
-add transition slides between videos and sections.  like:
-- "What can we do to prove ROS works?"
-- "What's a good challenge for the PR2?
-- Hackathon Results
 - ...
 - Where linux based robots have been, before my background.  
 
