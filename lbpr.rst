@@ -89,7 +89,9 @@ Motivation
 .. image:: images/pie_in_sky.jpg
    :height: 350
 
+.. note::
 
+   To give you a sense of motivation I'm going to give you a bit of my background.  
 
 My Background
 -------------
@@ -106,6 +108,11 @@ My Background
    Connect with audience!!! Ask how many know of Grand Challenge? HOw many particpiated? 
    What is the grand challenge?
 
+.. note::
+
+   Explain Grand Challenge: Tony Tether's vision.  Cost of contracting
+   with defence firms, lack of promise.
+   - Leverage prize money.  -- Administration was much more than the prize money.  
 
 My Background
 -------------
@@ -124,12 +131,25 @@ My Background
 - .. image:: images/little_ben.jpg
      :height: 220
 
+.. note::
+   Dell Gentoo/Slackware RTAI Servers with Fedora desktop
+   IBM Servers with Slackware installation
+   Mac Mini's with Ubuntu and Matlab
+
+.. note::
+
+   Possible story about Distance that Bob Traveled, barbed wire issue.  
+
+   Possible story about Alice failure, combined laser failures, with GPS outage, and stopping to reset while under power lines and a bug in the resume code. 
+
+   Possible story about Little Ben mac minis and sensors being removed due to parking in West Philly, compare to East Palo Alto, Compton
 
 ---------------------
 
 
 .. note:: DARPA Urban Grand Challenge
 
+.. Little Ben + Junior
 .. image:: images/urban_challenge.jpg
 
 .. note::
@@ -185,7 +205,7 @@ My Background
 
 .. note:: Values -- less volume + more eyes -> higher code quality, no duplicated effort.
 
-
+.. note:: TRANSITION: The way to do this effectively is to collaborate better.  
 ----
 
 .. Tux + Research
@@ -246,9 +266,12 @@ My Background
   Stable APIs
   Good documentation!!
 
-----
+Tools for Developers
+--------------------
 
-  Transition to summary of some of the existing tools in ROS.
+..  Transition to summary of some of the existing tools in ROS.
+
+.. image:: images/wrench.jpg
 
 
 Tools for Developers
