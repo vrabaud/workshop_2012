@@ -4,4 +4,4 @@ install bruce:
 sudo apt-get install libavbin0 libopenal1
 sudo pip install hachoir-parser  (not sure if this is required, or is not needed now that libavbin is installed.  
 
-
+# If using some nvidia drivers this patch is required. http://code.google.com/p/pyglet/issues/detail?id=456#c8
