@@ -1,7 +1,7 @@
 install bruce:
   download/unpack tarball (it won't work from pip, it tries to install windows version)
   sudo checkinstall python setup.py install
-sudo apt-get install libavbin0
+sudo apt-get install libavbin0 libopenal1
 sudo pip install hachoir-parser  (not sure if this is required, or is not needed now that libavbin is installed.  
 
 
