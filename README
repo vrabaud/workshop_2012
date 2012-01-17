@@ -1,7 +1,11 @@
-install bruce:
-  download/unpack tarball (it won't work from pip, it tries to install windows version)
-  sudo checkinstall python setup.py install
-sudo apt-get install libavbin0 libopenal1 python-pyglet python-docutils python-pip
+sudo apt-get install libavbin0 libopenal1 python-pyglet python-docutils python-pip checkinstall
 sudo pip install cocos2d 
 
+install bruce:
+  download/unpack tarball (it won't work from pip, it tries to install windows version) http://bruce-tpt.googlecode.com/files/bruce-3.2.1.tar.gz
+  sudo checkinstall python setup.py install
+
 # If using some nvidia drivers this patch is required. http://code.google.com/p/pyglet/issues/detail?id=456#c8
+
+
+# For lucid, you need to uninstall pyglet from debian and pip install 1.1.4
