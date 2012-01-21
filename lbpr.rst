@@ -443,6 +443,14 @@ PR2
 
 What's a good challenge for the PR2?
 
+.. note::
+   Ask the audience their suggestions
+
+PR2
+---
+
+How about a marathon?
+
 PR2
 ---
 
@@ -461,6 +469,19 @@ PR2
 
    Revisited plugs with production hardware and you can see it now plugging in cleanly.  
 
+   Option: We got coverage in a running magazine for this.  
+
+PR2
+--- 
+
+Can we make it play pool?
+
+In one week?
+
+.. note:: 
+   Now that we've got a platform what can we do in a week to test our development?
+   We gave ourselves this challenge as a hackathon.  Starting monday, demo on friday of what we can do.  
+
 PR2
 --- 
 
@@ -471,18 +492,33 @@ PR2
    We had some more free time and wanted to get the PR2 doing something cool, in a week to identify weaknesses in the platform.  So we spent a week teaching it to play pool.  
 
 PR2
----
+--- 
 
-.. video:: videos/beer_short.mpeg
+How about fetch beer?
 
 .. note::
    
    With the success of the pool playing robot, we though we might do it again for fetching beer from the fridge.  
 
+
+.. note:: 
+   Another 1 week long hackathon.  
+
+   Let this one speak for itself. 
+
+PR2
+---
+
+.. video:: videos/beer_short.mpeg
+
+
 PR2
 ---
 
 What can others do with the PR2?
+
+.. note:: 
+   We've shown that we who built the robot can use it, but what about external users?  
 
 PR2
 ---
