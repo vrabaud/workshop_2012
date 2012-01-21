@@ -3,7 +3,7 @@
 
 
 .. layout::
-   :vgradient:white;gray
+   :vgradient:white;white
 
 Linux Based Personal Robots
 
@@ -14,6 +14,11 @@ Tully Foote
 
 .. image:: images/wg_logo.jpg
    :width: 200
+
+.. note::
+   Connect who's use robots before? 
+   Who's been entirely satisfied with what the robot did? 
+   Who's developed for a robot?
 
 ----
 
@@ -98,7 +103,7 @@ My Background
 
 .. layout::
    :image: images/pie_in_sky_small.jpg;halign=right;valign=top
-   :vgradient:white;gray
+   :vgradient:white;white
 
 .. image:: images/grandchallenge.jpg
    :width: 800
@@ -206,6 +211,7 @@ My Background
 .. note:: Values -- less volume + more eyes -> higher code quality, no duplicated effort.
 
 .. note:: TRANSITION: The way to do this effectively is to collaborate better.  
+
 ----
 
 .. Tux + Research
@@ -229,7 +235,7 @@ My Background
 ----
 
 .. layout::
-   :vgradient:white;gray
+   :vgradient:white;white
 
 .. image:: images/wg_logo.jpg
    :width: 500
@@ -244,7 +250,7 @@ My Background
 
 .. layout::
    :image: images/wg_logo_small.jpg;halign=right;valign=top
-   :vgradient:white;gray
+   :vgradient:white;white
 
 .. image:: images/ros.png
    :width: 700
@@ -491,7 +497,7 @@ PR2
 ----
 
 .. layout::
-   :vgradient:white;gray
+   :vgradient:white;white
 
 .. image:: images/future.jpg
 
@@ -503,7 +509,7 @@ Future Plans
 
 .. layout::
    :image: images/future_small.jpg;halign=right;valign=top
-   :vgradient:white;gray
+   :vgradient:white;white
 
 .. image:: images/ubuntu.png
    :width: 600
@@ -550,25 +556,7 @@ The TurtleBot
                                                                     :height: 325
 ================================ ========================== ===============================
 
-   
-
-
-----
-
-Live Demo!
-
-.. note:: 
-   Bring up TurtleBot.  
-
-   Show dashboard, demo unplugging sensing, enable motors
-
-   Launch teleop_keyboard, demo teleop_keyboard
-
-   Demo rndmwalk -- talk about basic obstacle avoidance. 
-
-   Demo follower -- talk about 50 lines of code for this demo, in half an hour.  What can you do with more time???
-
-   I'll also have android_teleop on my tablet afterwords if anyone wants to try it. 
+.. note:: Computer are great, they can display things, but what would you want them to do if they could move?   
 
 
 ----
@@ -576,8 +564,14 @@ Live Demo!
 
 Thank You
 
-
 Questions?
+
+.. style::
+   :font_size: 20
+
+For more information visit: www.ros.org
+
+Email: tfoote@willowgarage.com
 
 
 Image Sources
@@ -598,35 +592,3 @@ Image Sources
 - Android Logo http://farm4.staticflickr.com/3034/3754407004_33e592d075.jpg
 
 
-..
-- ...
-- Where linux based robots have been, before my background.  
-
-need summary of what I"m going to say
-Where it was
-Where it is
-Where it's going
-
-Find 3 images, use them as transition slides and themes
-
-Setup my background with summary of the Grand Challenge
-Ask who knows about it?  Who was involved with it.  ->>> This is what I did.  
-
-Connect East Palo Alto to West Philly
-
-
-Tools need more transitions, showing ROS log in the corner, --- Use ROS logo for where we are today. Connect with Willow Garage and our current mission.  
-Use Scott's history of open source -> WG Mission for robotics.  
-
-
-
-Transitions - wrap up previous and lead into the next point
-Finding ways to enguage with the audience - ask more questions, even retorical
-
-More direct conneciton to linux lost from last draft.
-
-
-
-ENERGY!!!!!!!
-Fun!!
-Contact w/ audience
