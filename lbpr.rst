@@ -87,6 +87,9 @@ Presentation Outline
 .. image:: images/future.jpg
    :height: 200
 
+.. note:: 
+   Outline of my talk, I'll start with the vision for open source personal robots, The current implementation. And where we're going.  
+
 
 Motivation
 ----------
