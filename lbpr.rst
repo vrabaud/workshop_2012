@@ -596,8 +596,13 @@ The TurtleBot
                                                                     :height: 325
 ================================ ========================== ===============================
 
-.. note:: Computer are great, they can display things, but what would you want them to do if they could move?   
+.. note:: 
+   Computer are great, they can display things, but what would you want them to do if they could move?   
 
+   Who thinks they have the hardware to user robot code?
+   Who has a computer and a webcam?  Who has a Kinect?  
+   Simulator?  
+   Rovio, roomba.  
 
 ----
 

@@ -1,4 +1,38 @@
 The Xmodmap file can be passed as an argument to xmodmap to remap the Next and Prior key codes to Right and Left to allow a Kensington remote to work with bruce correctly.  
 
-To have it persist copy it to ~/.Xmodmap
+
+I pulled the instructions from http://46dogs.blogspot.com/2008/05/remap-keys-in-ubuntu-804-hardy-heron.html
+
+Remap Keys in Ubuntu 8.04 (Hardy Heron)
+My new Dell Inspiron 1520 keyboard is a little different from my old laptop, and now there's a "menu" key where I'm used to the "delete" key being.
+
+http://www.terminally-incoherent.com/blog/2007/08/02/remapping-the-caps-lock-key/ had a good explanation of how to remap a key, but my case was a little different. Here's what I did:
+
+1. Get the proper key codes
+
+First, I had to find the key-code for my Menu key and my Delete key. At a terminal, type (thanks to Tom for the "| grep keysym" addition to make the output more succint):
+> xev | grep keysym
+
+This lets you press keys and get the codes for them. Pressing my Menu and Delete keys, I got a lot of data. Buried in it were the following lines:
+keycode 117 (keysym 0xff67, Menu)
+keycode 107 (keysym 0xffff, Delete)
+
+Okay, pretty simple. "Menu" and "Delete" are the pertinent bits of data.
+
+2. Make the change
+
+Next, I used VI from a terminal to open ~/.Xmodmap (which didn't exist--I had to create it).
+> vi ~/.Xmodmap
+
+(If you don't know VI, I'm sure the regular Text Editor would work just as well.)
+
+In ~/.Xmodmap, I put a single line:
+keysym Menu = Delete
+
+Then save the file.
+
+3. Apply the change
+
+Finally, from a terminal, run the following command:
+> xmodmap ~/.Xmodmap 
 
