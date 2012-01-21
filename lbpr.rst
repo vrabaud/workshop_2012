@@ -246,6 +246,7 @@ My Background
 
 
 .. note:: Transition into how we're doing it with ROS
+
 ----
 
 .. layout::
