@@ -1,0 +1,4 @@
+The Xmodmap file can be passed as an argument to xmodmap to remap the Next and Prior key codes to Right and Left to allow a Kensington remote to work with bruce correctly.  
+
+To have it persist copy it to ~/.Xmodmap
+

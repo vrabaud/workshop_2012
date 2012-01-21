@@ -609,7 +609,8 @@ Questions?
 .. style::
    :font_size: 20
 
-For more information visit: www.ros.org
+Check it out: www.ros.org
+
 
 Email: tfoote@willowgarage.com
 
