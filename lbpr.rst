@@ -508,9 +508,17 @@ ROS Fuerte RC1
 
 ----
 
-.. image:: images/osrf-horiz.png
-   :width: 1024
 
+.. page-style:: 
+   :list.expose: expose
+   :align: center
+   :list.bullet: none
+
+- .. image:: images/osrf-horiz.png
+     :width: 1024
+
+- .. image:: images/roboticschallenge.jpg
+     :width: 512
 
 .. note::
    Just yesterday we announced the Open Source Robotics Foundation
