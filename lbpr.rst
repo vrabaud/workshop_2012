@@ -5,7 +5,7 @@
 .. layout::
    :vgradient:white;white
 
-Linux Based Personal Robots
+Open Source Robotics
 
 .. page-style::
    :font_size: 20
@@ -16,59 +16,10 @@ Tully Foote
    :width: 200
 
 .. note::
-   Connect who's use robots before? 
+   Connect:  Who's use robots before? 
    Who's been entirely satisfied with what the robot did? 
    Who's developed for a robot?
 
-----
-
-What is a personal robot?
-
-
-.. note::
-   Seek audiance input/suggestions. 
-
-   From movies and TV: R2D2, iRobot
-
-   In the real world.  iRobot Create, 
-
-   End with Rosie
-
-Sci Fi Personal Robots
-----------------------
-
-
-=================================== ==============================
-.. image:: images/rosie_singing.gif .. image:: images/r2d2_200.jpg
-=================================== ==============================
-
-.. note:: We'd all love to have these robots
-   But what robots do we have in the home. 
-
-Personal Robots In Homes
-------------------------
-.. page-style:: 
-   :list.expose: expose
-   :align: center
-   :list.bullet: none
-
-- .. image:: images/roomba_220.jpg
-    :height: 200
-
-.. note:: We have simple cleaning robots.  They sometimes can work on
-   their own, sometimes they're more entertainment.  
-
-- .. image:: images/paro.jpg
-    :height: 200
-
-.. note:: And we have many robots companions, but the extent of their 
-   abilities is to make noises and wiggle a little.
-
-- .. image:: images/800px-Pleo_robot.jpg
-     :height: 200
-
-.. note:: And we have many robots companions, but the extent of their 
-   abilities is to make noises and wiggle a little.
 
 Presentation Outline
 --------------------
@@ -544,6 +495,29 @@ PR2
 .. note::
    Transition to where we want to go.  Keep expanding user base.  Make it easier to use ROS as a development platform. 
 
+ROS Fuerte RC1
+--------------
+
+.. layout::
+   :image: images/future_small.jpg;halign=right;valign=top
+   :vgradient:white;white
+
+.. image:: images/fuerte_beta.png
+   :width: 640
+
+
+----
+
+.. image:: images/osrf-horiz.png
+   :width: 1024
+
+
+.. note::
+   Just yesterday we announced the Open Source Robotics Foundation
+   Designated to be a facilitator of OSR
+   First project will be DARPA Simulator
+
+
 Future Plans
 ------------
 
@@ -569,6 +543,15 @@ Future Plans
    people starting to use ROS on Android and Arm based computer.  We
    just launched the TurtleBot running on Atom based laptops.
 
+----
+
+.. layout::
+   :image: images/ros_small.png;halign=right;valign=top
+   :vgradient:white;white
+
+Try it out!
+
+
 The TurtleBot
 -------------
 
@@ -585,7 +568,6 @@ The TurtleBot
 ----
 
 .. video:: videos/turtlebot.mp4
-   :width: 800
 
 ----
 
@@ -603,6 +585,12 @@ The TurtleBot
    Who has a computer and a webcam?  Who has a Kinect?  
    Simulator?  
    Rovio, roomba.  
+
+Simulator
+---------
+
+.. image:: images/turtlebot_sim.png
+   :width: 640
 
 ----
 
