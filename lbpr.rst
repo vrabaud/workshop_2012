@@ -559,6 +559,20 @@ Future Plans
 
 Try it out!
 
+Tutorials
+---------
+
+.. page-style:: 
+   :font_size: 40
+   :bold: yes
+
+
+.. image:: images/tutorials.png
+   :width: 800
+
+
+http://ros.org/wiki/ROS/Tutorials
+
 
 The TurtleBot
 -------------
