@@ -343,7 +343,7 @@ Worldwide community
 
 .. note::
 
-   Fast growth around the world.  This is similar to our use base.  First a few of us in Willow.  Then a few grad students.  Then a few labs.  Then a few schools.  Now many schools and labs around the world.   
+   Fast growth around the world.  This is similar to our user base.  First a few of us in Willow.  Then a few grad students.  Then a few labs.  Then a few schools.  Now many schools and labs around the world.   
 
 Worldwide community
 -------------------
