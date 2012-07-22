@@ -330,7 +330,7 @@ Tools for the Community
 Worldwide community
 -------------------
 
-.. image:: images/ros_map.png
+.. image:: images/wiki_map_with_list.png
    :width: 1024
 
 .. note:: 
@@ -346,7 +346,7 @@ Worldwide community
 Worldwide community
 -------------------
 
-.. image:: images/packages.png
+.. image:: images/repositories.png
    :width: 900
 
 .. note::
