@@ -1,0 +1,18 @@
+# Bruce StyleSheet (BSS) version of the built-in "big-centered" style
+
+[layout]
+:image: images/wg_logo_small.jpg;halign=right;valign=bottom
+:image: images/ros_small.png;halign=right;valign=top
+:image: images/osrf-horiz_small.png;halign=left;valign=bottom
+:quad: C#ffffff;V0,h;C#c0c0ff;Vw,h;C#8080ff;Vw,0;C#c0c0ff;V0,0
+:quad: C#c0c0ff;V0,h;V0,h-48;Vw,h-48;Vw,h
+
+
+[style]
+font_name = Times New Roman
+font_size = 64
+align = center
+literal.font_size = 64
+title.font_size = 32
+layout.valign = center
+layout.viewport = 0,64,w,h-(64+48)

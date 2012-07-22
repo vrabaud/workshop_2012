@@ -1,8 +1,4 @@
-.. load-style:: gradient
-
-
-.. layout::
-   :vgradient:white;white
+.. page-load-style:: styles/title
 
 ROS: 
 
@@ -31,6 +27,8 @@ Tully Foote
 
 Presentation Outline
 --------------------
+.. load-style:: styles/main
+
 
 .. page-style:: 
    :font_size: 40
@@ -63,9 +61,7 @@ Motivation
 My Background
 -------------
 
-.. layout::
-   :image: images/pie_in_sky_small.jpg;halign=right;valign=top
-   :vgradient:white;white
+.. load-style:: styles/motivation
 
 .. image:: images/grandchallenge.jpg
    :width: 800
@@ -211,9 +207,7 @@ My Background
 
 ----
 
-.. layout::
-   :image: images/wg_logo_small.jpg;halign=right;valign=top
-   :vgradient:white;white
+.. load-style:: styles/current
 
 .. image:: images/ros.png
    :width: 700
@@ -506,9 +500,7 @@ PR2
 ROS Fuerte RC1
 --------------
 
-.. layout::
-   :image: images/future_small.jpg;halign=right;valign=top
-   :vgradient:white;white
+.. load-style:: styles/future
 
 .. image:: images/fuerte_beta.png
    :width: 640
@@ -537,9 +529,6 @@ ROS Fuerte RC1
 Future Plans
 ------------
 
-.. layout::
-   :image: images/future_small.jpg;halign=right;valign=top
-   :vgradient:white;white
 
 .. image:: images/ubuntu.png
    :width: 600
@@ -561,9 +550,8 @@ Future Plans
 
 ----
 
-.. layout::
-   :image: images/ros_small.png;halign=right;valign=top
-   :vgradient:white;white
+.. load-style:: styles/main
+
 
 Try it out!
 
