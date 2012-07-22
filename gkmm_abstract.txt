@@ -1,0 +1,5 @@
+ROS: Past Present and Future
+
+This talk wil cover where ROS came from and what motivated it.  THis motivation leads to the design goals.  The talk will give a glimpse of what is available now in standard tools and libraries, such as build engironment, visualization and debugging.  It will also cover where to look for new community developed tools and libraries.  The talk witll finish with an overview of ongoing ROS development at Willow Garage and in the global community.  
+
+If you are interested in getting involved either as a user or as a developer this talk will help you understand where to get started.  And if you're considering using ROS it should give you an overview ot help you understand what capabilities ROS has and how it might fit for your use case.  
