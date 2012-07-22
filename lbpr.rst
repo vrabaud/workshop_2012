@@ -1,11 +1,15 @@
 .. load-style:: gradient
 
 
-
 .. layout::
    :vgradient:white;white
 
-Open Source Robotics
+ROS: 
+
+.. page-style:: 
+   :font_size: 40
+
+The Robot Operating System
 
 .. page-style::
    :font_size: 20
@@ -14,6 +18,10 @@ Tully Foote
 
 .. image:: images/wg_logo.jpg
    :width: 200
+
+.. image:: images/osrf-horiz.png
+   :width: 400
+
 
 .. note::
    Connect:  Who's use robots before? 
