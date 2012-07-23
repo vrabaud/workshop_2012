@@ -261,3 +261,26 @@ Libraries Available In ROS
 - PCL 
 
 - object recognition
+
+Where to find these resources
+-----------------------------
+
+ROS Wiki: www.ros.org
+
+There are indexes on the home page. 
+
+Click "Browse Software" to browse or search the meta data fields
+
+Where to get help
+-----------------
+
+answers.ros.org
+
+Search first, then ask. 
+
+Make sure to tag well. 
+
+Follow www.ros.org/wiki/Support guidelines
+
+
+
