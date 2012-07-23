@@ -1,6 +1,8 @@
 Motivation
 ----------
 
+.. page-load-style:: styles/main
+
 .. image:: images/pie_in_sky.jpg
    :height: 350
 
