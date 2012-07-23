@@ -71,7 +71,7 @@ Presentation Outline
 .. note::
    Transition to where we want to go.  Keep expanding user base.  Make it easier to use ROS as a development platform. 
 
-ROS Fuerte RC1
+ROS Grooby
 --------------
 
 .. load-style:: styles/future
@@ -79,6 +79,22 @@ ROS Fuerte RC1
 .. image:: images/fuerte_beta.png
    :width: 640
 
+
+Multi master
+
+Gazebo revamp
+
+client library redesign
+
+new build system
+
+rpm packages
+
+more drivers
+
+ROS Industrial
+
+ROS Enterprise
 
 ----
 
