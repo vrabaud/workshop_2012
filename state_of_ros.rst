@@ -1,6 +1,4 @@
-
-.. layout::
-   :vgradient:white;white
+.. page-load-style:: styles/main
 
 .. image:: images/wg_logo.jpg
    :width: 500

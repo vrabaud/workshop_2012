@@ -1,3 +1,4 @@
+.. page-load-style:: styles/main
 
 How do you prove your software works?
 
@@ -7,6 +8,8 @@ How do you prove your software works?
 
 PR2
 ---
+
+.. load-style:: styles/pr2
 
 .. image:: images/pr2.jpg
    :height: 700
