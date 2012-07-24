@@ -1,7 +1,12 @@
-.. page-load-style:: styles/main
-
-
 How does it work?
+-----------------
+
+.. load-style:: styles/current
+
+.. page-style::
+   :align: left
+   :font_size: 40
+
 
 - Build System
 
@@ -12,11 +17,10 @@ How does it work?
 Build System Features
 ---------------------
 
-.. load-style:: styles/current
-
 .. page-style::
    :align: left
    :font_size: 40
+
 - Declared dependencies
 
 - Automatic linking and compile flags
@@ -201,50 +205,107 @@ Example Message
 Using Messages
 --------------
 
-Talker Listener demo
-Show talker
-show listener
-
-show rostopic list
-show rostopic info 
-show rxgraph
-
-show rostopic echo
-show rostopic pub
-
-show rxconsole
-show logger levels
+.. page-style:: 
+   :font_size: 32
+   :align: left
 
 
+- Talker Listener demo
+- show rostopic list
+- show rostopic info 
+- show rxgraph
+- show rostopic echo
+- show rostopic pub
+- show rxconsole
+- show logger levels
 
-Inside Talker
--------------
 
-Python
+
+Inside Talker (Python)
+----------------------
+
+.. page-style:: 
+   :font_size: 24
+   :align: left
+   :literal.font_size: 24
+
 
 .. code:: python
 
-  import TODO
+  import roslib; roslib.load_manifest('rospy_tutorials')
+  import rospy
+  from std_msgs.msg import String
+
+  pub = rospy.Publisher('chatter', String)
+  rospy.init_node('talker', anonymous=True)
+  r = rospy.Rate(10) # 10hz
+  while not rospy.is_shutdown():
+      str = "hello world %s"%rospy.get_time()
+      rospy.loginfo(str)
+      pub.publish(str)
+      r.sleep()
 
 
-Inside Talker
--------------
 
-C++
+Inside Talker (C++)
+-------------------
+
+.. page-style:: 
+   :font_size: 24
+   :align: left
+   :literal.font_size: 24
 
 .. code:: c++
 
-  include TODO
+  #include "ros/ros.h"
+  #include "std_msgs/String.h"
+  #include <sstream>
+  int main(int argc, char **argv) {
+    ros::init(argc, argv, "talker");
+    ros::NodeHandle n;
+    ros::Publisher chatter_pub = n.advertise<std_msgs::String>("chatter", 1000);
+    ros::Rate loop_rate(10); int count = 0;
+    while (ros::ok()){
+      std::stringstream ss; 
+      ss << "hello world " << count;
+      std_msgs::String msg; msg.data = ss.str();
+      ROS_INFO("%s", msg.data.c_str());
+      chatter_pub.publish(msg);
+      ros::spinOnce();
+      loop_rate.sleep(); ++count; }
+    return 0;  }
 
-Inside Listener
----------------
 
-Python
+
+Inside Listener (Python)
+------------------------
+
+.. page-style:: 
+   :font_size: 24
+   :align: left
+   :literal.font_size: 24
 
 .. code:: python
 
+  import roslib; roslib.load_manifest('rospy_tutorials')
+
+  import rospy
+  from std_msgs.msg import String
+
+  def callback(data):
+      rospy.loginfo(rospy.get_caller_id()+"I heard %s",data.data)
+    
+  rospy.init_node('listener', anonymous=True)
+  rospy.Subscriber("chatter", String, callback)
+  rospy.spin()
+
+
 Libraries Available In ROS
 --------------------------
+
+.. page-style:: 
+   :font_size: 40
+   :align: left
 
 - tf
 
