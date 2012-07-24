@@ -235,6 +235,8 @@ Using Messages
 - show rxgraph
 - show rostopic echo
 - show rostopic pub
+- show rosbag record
+- show rosbag play
 - show rxconsole
 - show logger levels
 
