@@ -71,31 +71,6 @@ Presentation Outline
 .. note::
    Transition to where we want to go.  Keep expanding user base.  Make it easier to use ROS as a development platform. 
 
-ROS Grooby
---------------
-
-.. load-style:: styles/future
-
-.. image:: images/fuerte_beta.png
-   :width: 640
-
-
-Multi master
-
-Gazebo revamp
-
-client library redesign
-
-new build system
-
-rpm packages
-
-more drivers
-
-ROS Industrial
-
-ROS Enterprise
-
 ----
 
 
@@ -111,7 +86,6 @@ ROS Enterprise
      :width: 512
 
 .. note::
-   Just yesterday we announced the Open Source Robotics Foundation
    Designated to be a facilitator of OSR
    First project will be DARPA Simulator
 
@@ -138,26 +112,33 @@ Future Plans
    people starting to use ROS on Android and Arm based computer.  We
    just launched the TurtleBot running on Atom based laptops.
 
-----
 
-.. load-style:: styles/main
+Current Efforts
+---------------
 
-
-Try it out!
-
-Tutorials
----------
+.. load-style:: styles/future
 
 .. page-style:: 
    :font_size: 40
-   :bold: yes
+   :align: left
 
+- Multi master
 
-.. image:: images/tutorials.png
-   :width: 800
+- Gazebo revamp
 
+- client library redesign
 
-http://ros.org/wiki/ROS/Tutorials
+- new build system
+
+- rpm packages
+
+- more drivers
+
+- ROS Industrial
+
+- ROS Enterprise
+
+- ROS Education
 
 
 The TurtleBot
@@ -200,6 +181,21 @@ Simulator
 .. image:: images/turtlebot_sim.png
    :width: 640
 
+
+Tutorials
+---------
+
+.. page-style:: 
+   :font_size: 40
+   :bold: yes
+
+
+.. image:: images/tutorials.png
+   :width: 800
+
+
+http://ros.org/wiki/ROS/Tutorials
+
 ----
 
 
@@ -210,7 +206,7 @@ Questions?
 .. style::
    :font_size: 20
 
-Check it out: www.ros.org
+More inforomation at: www.ros.org
 
 
 Email: tfoote@willowgarage.com
