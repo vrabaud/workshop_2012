@@ -119,7 +119,7 @@ Current Efforts
 .. load-style:: styles/future
 
 .. page-style:: 
-   :font_size: 40
+   :font_size: 36
    :align: left
 
 - Multi master
@@ -139,6 +139,8 @@ Current Efforts
 - ROS Enterprise
 
 - ROS Education
+
+- Autodiscovery -- ROS devices
 
 
 The TurtleBot
