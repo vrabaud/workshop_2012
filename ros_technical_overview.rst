@@ -107,6 +107,25 @@ Dependency Exports
 
 .. note:: Many more features we don't have time to cover.  
 
+Environment
+-----------
+
+.. page-style:: 
+   :font_size: 40
+   :align: left
+   :literal.font_size: 32
+
+The ROS Packaging system uses Environment Variables to find the packages
+
+.. code:: bash
+
+  $ env | grep ROS
+
+  ROS_ROOT=/opt/ros/electric/ros
+  ROS_PACKAGE_PATH=/opt/ros/electric/stacks
+  ROS_MASTER_URI=http://localhost:11311
+
+
 ros_comm
 --------
 
@@ -326,7 +345,13 @@ Libraries Available In ROS
 Where to find these resources
 -----------------------------
 
+.. page-style:: 
+   :font_size: 64
+
 ROS Wiki: www.ros.org
+
+.. page-style:: 
+   :font_size: 40
 
 There are indexes on the home page. 
 
@@ -334,14 +359,20 @@ Click "Browse Software" to browse or search the meta data fields
 
 Where to get help
 -----------------
+.. page-style:: 
+   :font_size: 60
 
-answers.ros.org
+Q&A site: answers.ros.org
 
-Search first, then ask. 
+.. page-style:: 
+   :font_size: 40
+   :align: left
 
-Make sure to tag well. 
+- Search first, then ask. 
 
-Follow www.ros.org/wiki/Support guidelines
+- Make sure to tag well. 
+
+- Follow www.ros.org/wiki/Support guidelines
 
 
 
