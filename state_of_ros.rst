@@ -158,6 +158,15 @@ Worldwide community
 .. image:: images/robots_using_ros.png
    :width: 1000
 
+.. page-style::
+   :font_size: 32
+   :align: left
+
+- 28+ Public robot drivers
+
+- 317 Academic Citations of [ Quigley ICRA 2009 ]
+
+
 .. note::
 
    These are all robots which have ROS drivers release and ROS is the recommended way to interact with them.  
