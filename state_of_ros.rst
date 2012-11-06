@@ -45,6 +45,11 @@ Tools for Developers
 Tools for Developers
 --------------------
 
+.. page-style::
+   :font_size: 30
+
+Catkin: new build system, fully CMake compatible
+
 .. image:: images/rosmake.png
    :width: 800
 
@@ -85,8 +90,15 @@ Tools for the Community
 Tools for the Community
 -----------------------
 
-.. image:: images/opencv_pcl.png
-   :width: 800
+.. page-style::
+   :font_size: 30
+   :align: left
+
+Other independent libraries:
+
+  * Gazebo: simulator
+  * OpenCV: vision library
+  * PCL: point cloud processing
 
 .. note::
 
@@ -97,10 +109,10 @@ Tools for the Community
 -----------------------
 
 .. image:: images/jenkins.png
-   :width: 600
-
-.. image:: images/success.gif
    :width: 400
+
+.. image:: images/jenkins_board.png
+   :width: 800
 
 .. TODO ADD IMAGE of dashboard
 

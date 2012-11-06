@@ -1,92 +1,27 @@
-Motivation
-----------
-
-.. page-load-style:: styles/main
-
-.. image:: images/pie_in_sky.jpg
-   :height: 350
-
-.. note::
-
-   To give you a sense of motivation I'm going to give you a bit of my background.  
-
 My Background
 -------------
 
-.. load-style:: styles/motivation
-
-.. image:: images/grandchallenge.jpg
-   :width: 800
-
-.. note:: 
-
-   Connect with audience!!! Ask how many know of Grand Challenge? HOw many particpiated? 
-   What is the grand challenge?
-
-.. note::
-
-   Explain Grand Challenge: Tony Tether's vision.  Cost of contracting
-   with defence firms, lack of promise.
-   - Leverage prize money.  -- Administration was much more than the prize money.  
-
-My Background
--------------
-
-.. page-style:: 
+.. page-style::
    :list.expose: expose
-   :align: center
-   :list.bullet: none
-
-- .. image:: images/bob.jpg
-     :height: 220
-
-- .. image:: images/alice.jpg
-     :height: 220
-     
-- .. image:: images/little_ben.jpg
-     :height: 220
-
-.. note::
-   Dell Gentoo/Slackware RTAI Servers with Fedora desktop
-   IBM Servers with Slackware installation
-   Mac Mini's with Ubuntu and Matlab
-
-.. note::
-
-   Possible story about Distance that Bob Traveled, barbed wire issue.  
-
-   Possible story about Alice failure, combined laser failures, with GPS outage, and stopping to reset while under power lines and a bug in the resume code. 
-
-   Possible story about Little Ben mac minis and sensors being removed due to parking in West Philly, compare to East Palo Alto, Compton
-
----------------------
+   :font_size: 30
+   :align: left
 
 
-.. note:: DARPA Urban Grand Challenge
+- PhD at UCSD in SfM
 
-.. Little Ben + Junior
-.. image:: images/urban_challenge.jpg
-
-.. note::
-   Why did DARPA choose the challenge format? -- because paying military contractors to do this is much less efficient than crowd sourcing.  
-
-.. note:: Note the similarities between these two cars.  The code
-   which defined the difference between the winning car and the other
-   finalists was maybe 10 percent of the effort.  The other 90% of the
-   efforts could have been shared and not given up their competitive
-   advantage.  And think if the 100+ teams in the overall competition
-   had all contributed just a little bit to a shared pool.  
-   Of course I'm preaching to the choir.
-
-
-.. note:: This is indicative of the state of academic robotics in general.  
-   TRANSITION TO PHD COMIC
+- created toolboxes for generic vision and SfM
+   
+   Piotr's Image & Video Matlab Toolbox
+   http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html
+   Vincent's Structure from Motion Matlab Toolbox
+   http://vision.ucsd.edu/~vrabaud/toolbox/doc/index.html
 
 
 ----
 
 .. PHD COMIC
 .. image:: images/phd_comic.jpg
+    :height: 700
 
 .. TODO change to progressive reveal of one word + image simplified
 

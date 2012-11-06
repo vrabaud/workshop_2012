@@ -10,7 +10,7 @@ The Robot Operating System
 .. page-style::
    :font_size: 20
 
-Tully Foote
+Vincent Rabaud
 
 .. image:: images/wg_logo.jpg
    :width: 200
@@ -29,23 +29,6 @@ Presentation Outline
 --------------------
 .. load-style:: styles/main
 
-
-.. page-style:: 
-   :font_size: 40
-
-
-
-.. image:: images/pie_in_sky.jpg
-   :height: 200
-
-.. image:: images/wg_logo.jpg
-   :height: 200
-
-.. image:: images/future.jpg
-   :height: 200
-
-.. note:: 
-   Outline of my talk, I'll start with the vision for open source personal robots, The current implementation. And where we're going.  
 
 .. include:: motivation.rst
 
@@ -122,25 +105,25 @@ Current Efforts
    :font_size: 36
    :align: left
 
-- Multi master
+ROS:
 
 - Gazebo revamp
 
-- client library redesign
+- more drivers (Motoman ...)
 
-- new build system
+- rpm packages. Mac/Windows support
 
-- rpm packages
+- auto-discovery of masters, of devices
 
-- more drivers
+- client library redesign (ZeroMQ, no msg type)
+
+ROS environment:
 
 - ROS Industrial
 
 - ROS Enterprise
 
 - ROS Education
-
-- Autodiscovery -- ROS devices
 
 
 The TurtleBot
@@ -211,24 +194,4 @@ Questions?
 More inforomation at: www.ros.org
 
 
-Email: tfoote@willowgarage.com
-
-
-Image Sources
--------------
-
-.. style::
-   :font_size: 20
-
-
-- Roomba Public Domain on Wikipedia
-- Paro http://www.parorobots.com/pdf/pressreleases/PARO to be marketed 2004-9.pdf
-- Pleo http://en.wikipedia.org/wiki/File:Pleo_robot.jpg
-- Debian Package Management http://murugaprabu.me/wordpress/2011/01/16/hello-world/
-- Urban Challenge kwc.org
-- Success Chart https://cs.byu.edu/image/302-success_clipart
-- Jenkins Logo https://wiki.jenkins-ci.org/display/JENKINS/Logo
-- Droid Photo http://www.motorola.com/staticfiles/Consumers/Products/Mobile%20Phones/DROID-3-By-Motorola/_Images/Droid-X3_Production_Specs.jpg
-- Android Logo http://farm4.staticflickr.com/3034/3754407004_33e592d075.jpg
-
-
+Email: vrabaud@willowgarage.com
